@@ -1,0 +1,5 @@
+D:\QuanLyShopHoa\QLShopHoa\ValueObject\bin\Debug\ValueObject.dll
+D:\QuanLyShopHoa\QLShopHoa\ValueObject\bin\Debug\ValueObject.pdb
+D:\QuanLyShopHoa\QLShopHoa\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+D:\QuanLyShopHoa\QLShopHoa\ValueObject\obj\Debug\ValueObject.dll
+D:\QuanLyShopHoa\QLShopHoa\ValueObject\obj\Debug\ValueObject.pdb

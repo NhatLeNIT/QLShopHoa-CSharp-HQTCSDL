@@ -1,0 +1,9 @@
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\bin\Release\DataAccessLayer.dll
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\bin\Release\ValueObject.dll
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\bin\Release\DataAccessLayer.pdb
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\bin\Release\ValueObject.pdb
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+D:\QuanLyShopHoa\QLShopHoa\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb
